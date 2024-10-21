@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "forceConsistentCasingInFileNames": true,
+        "strict": true,
+        "module": "ESNext",
+        "target": "ES2021",
+        "allowSyntheticDefaultImports": true
+    },
+    "include": [
+      "src/**/*",
+      "tests/**/*",
+      "**/*.d.ts"
+    ]
+  }
